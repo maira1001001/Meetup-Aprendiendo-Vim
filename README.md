@@ -7,7 +7,7 @@ Se puede ver un video en YouTube filmado por [TV Universidad UNLP](https://www.y
 
 [Evento a la meetup](https://www.meetup.com/es/linuxchixar/events/243025135/)
 
-[Flyer](meetup-linuxchix-laplata-8septiembre2017_01.jpg)
-[Las linuxchixs](meetup-linuxchix-laplata-8septiembre2017_02.jpg)
-[Img final](meetup-linuxchix-laplata-8septiembre2017_03.jpg)
+![Flyer](meetup-linuxchix-laplata-8septiembre2017_01.jpg)
+![Las linuxchixs](meetup-linuxchix-laplata-8septiembre2017_02.jpg)
+![Img final](meetup-linuxchix-laplata-8septiembre2017_03.jpg)
 
